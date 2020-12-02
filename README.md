@@ -1,3 +1,5 @@
+[More info in the blog](https://www.taniarascia.com/building-takenote/)
+
 <p align="center">
   <img src="./assets/logo.png">
 </p>
